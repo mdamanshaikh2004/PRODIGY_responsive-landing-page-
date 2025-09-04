@@ -39,10 +39,10 @@ css
 1- Navigation:- Navigation is built dynamically as an unordered list. Start with empty ul and dynamically build navigation creating array from sections to use function and create navigation bar elements. Then make a function to check if sections in viewport, then made another function to toggle class " your- active- class"
 2- Section Active State:- used scroll event and offset top to determine which active section to add class " active" to Li related to the active section and scroll to the list item in small screens.
 3- Scroll to Anchor:- When clicking an item from the navigation menu, the link should scroll to the appropriate section and used create element to create button " go to top" when user click on it, and hide the button and header navigation bar when the page on top. And when user scroll down they are appeared to deal with them, and finally used event click to make the button responsive and go to the top of the page.
-4- Used media query in js code to add some features to nav bar and hide it in mobiles screens
+4- Used media query in js code to add some features to nav bar and hide it in mobiles screens.
 
 
 ## Footer
 
 thanks to check my code and feed me back with your opinion and notes
-thanks
+thanks.
